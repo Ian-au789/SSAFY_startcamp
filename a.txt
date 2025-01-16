@@ -1,2 +1,4 @@
 hello world
 dasdsa
+
+git push -f origin master

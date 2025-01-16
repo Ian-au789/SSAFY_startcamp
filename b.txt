@@ -1,0 +1,3 @@
+git bash 
+
+connected with VS code
